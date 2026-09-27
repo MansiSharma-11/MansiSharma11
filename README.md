@@ -1,30 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mansi Sharma</h1>
-<h3 align="center">Exploring Cybersecurity, AI, and Data Analysis — One Project at a Time</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Airbnb Dashboard](https://github.com/MansiSharma11/Data-Analytics/tree/8d427aa8d521223b022d739ff6244ebcf4df7393/PowerBI%20Projects)
+<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
 
-- 🌱 I’m currently learning **SQL,PowerBI,Fabric**
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-- 📝 I regularly write articles on Tech-Stuff [https://medium.com/@mansisharmasidd2](https://medium.com/@mansisharmasidd2)
+[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
+[email](mailto:clb@mirasvit.com)
 
-- 💬 Ask me about **SQL,Python and Linux**
+</div>
 
-- 📫 How to reach me **mansimsharma11@gmail.com**
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-- ⚡ Fun fact **I'm Magnanimous**
+> CS student at San Francisco State, in the SF Bay Area.<br>
+> Small, sharp tools over big vague ideas.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I build fast, test on real users, and kill what doesn't work. Right now that's<br>
+[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
+deep into markets: Pine Script indicators, backtesting, on-chain data.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mansimsharma11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimsharma11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mansisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansisharma" height="30" width="40" /></a>
-<a href="https://medium.com/@mansisharmasidd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansisharmasidd2" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mansi_s11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mansi_s11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mansisharmasidd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mansisharmasidd2" height="30" width="40" /></a>
-</p>
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+AI short-form video editor in the browser. Auto captions with accents,<br>
+drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+
+**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
+Describe a trading strategy in plain English, get a real backtest with<br>
+statistical validation. Exposes curve-fitting, not alpha.
+
+**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
+Autonomous research agent for your second brain. Built solo at Nozomio<br>
+Hackathon, EF SF.
+
+**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
+Particle-morph portfolio: thousands of particles reshaping between scenes.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
+
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
+
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
